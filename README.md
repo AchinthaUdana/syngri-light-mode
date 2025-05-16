@@ -1,0 +1,1 @@
+# syngri-light-mode
